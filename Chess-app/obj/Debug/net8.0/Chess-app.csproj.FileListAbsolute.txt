@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Chess-app\Chess-app\bin\Debug\net8.0\Chess-app.exe
+C:\Users\Admin\source\repos\Chess-app\Chess-app\bin\Debug\net8.0\Chess-app.deps.json
+C:\Users\Admin\source\repos\Chess-app\Chess-app\bin\Debug\net8.0\Chess-app.runtimeconfig.json
+C:\Users\Admin\source\repos\Chess-app\Chess-app\bin\Debug\net8.0\Chess-app.dll
+C:\Users\Admin\source\repos\Chess-app\Chess-app\bin\Debug\net8.0\Chess-app.pdb
+C:\Users\Admin\source\repos\Chess-app\Chess-app\obj\Debug\net8.0\Chess-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Chess-app\Chess-app\obj\Debug\net8.0\Chess-app.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Chess-app\Chess-app\obj\Debug\net8.0\Chess-app.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Chess-app\Chess-app\obj\Debug\net8.0\Chess-app.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Chess-app\Chess-app\obj\Debug\net8.0\Chess-app.dll
+C:\Users\Admin\source\repos\Chess-app\Chess-app\obj\Debug\net8.0\refint\Chess-app.dll
+C:\Users\Admin\source\repos\Chess-app\Chess-app\obj\Debug\net8.0\Chess-app.pdb
+C:\Users\Admin\source\repos\Chess-app\Chess-app\obj\Debug\net8.0\Chess-app.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Chess-app\Chess-app\obj\Debug\net8.0\ref\Chess-app.dll

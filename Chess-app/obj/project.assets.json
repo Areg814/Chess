@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Chess-app\\Chess-app\\Chess-app.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Desktop\\programing\\Chess-app\\Chess-app\\Chess-app.csproj",
       "projectName": "Chess-app",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\Chess-app\\Chess-app\\Chess-app.csproj",
+      "projectPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\programing\\Chess-app\\Chess-app\\Chess-app.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\Chess-app\\Chess-app\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\programing\\Chess-app\\Chess-app\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Chess-app\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\programing\\Chess-app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8300C6BE-7BCD-442A-9230-8A295D06C930}|Chess-app\\Chess-app.csproj|c:\\users\\admin\\source\\repos\\chess-app\\chess-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8300C6BE-7BCD-442A-9230-8A295D06C930}|Chess-app\\Chess-app.csproj|c:\\users\\admin\\onedrive\\desktop\\programing\\chess-app\\chess-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8300C6BE-7BCD-442A-9230-8A295D06C930}|Chess-app\\Chess-app.csproj|solutionrelative:chess-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Chess-app\\Chess-app\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\programing\\Chess-app\\Chess-app\\Program.cs",
               "RelativeDocumentMoniker": "Chess-app\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Chess-app\\Chess-app\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\programing\\Chess-app\\Chess-app\\Program.cs",
               "RelativeToolTip": "Chess-app\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T13:22:47.414Z",
               "EditorCaption": ""
